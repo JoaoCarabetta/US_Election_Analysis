@@ -4,7 +4,7 @@ It is a known fact that Republicans are get more votes in the country regions wh
 To confirm that, I decided to compare the distance of a county from big counties to its percentage of vote on Trump (big county == densely populated county). If the previous assumption is correct, I expect to have lower Trump vote rate on counties with short distances from a big county and red counties far from the centers. 
 Here is what I’ve got, ([You can find an interactive version here](https://public.tableau.com/profile/joao.carabetta#!/vizhome/USElectionDistance/Dashboard1))
 
-!(https://github.com/JoaoCarabetta/US_Election_Analysis/blob/master/images/Screen%20Shot%202016-11-29%20at%2012.56.43.png
+![](https://github.com/JoaoCarabetta/US_Election_Analysis/blob/master/images/Screen%20Shot%202016-11-29%20at%2012.56.43.png)
 
 
 in which you can see that counties with more than one million inhabitants tend to vote for Hillary, whereas scarcely populated counties from the country side massively vote Trump. 
